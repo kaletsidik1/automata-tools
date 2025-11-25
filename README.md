@@ -11,16 +11,12 @@ Files
 Usage
 - Run the interactive program:
 ```
-python -u "d:\@year - 4\assignment\main.py"
+1. Clone the repo
+2. Navigate to the the directory.
+3. python3 main.py
 ```
 - Menu options in `main.py`:
   - `1` Generate all valid strings for the DFA (specify length)
   - `2` Validate an input string against the DFA
   - `3` Generate strings that start with `a` and contain `b0` over `{a,b,c,0}` (specify length)
   - `4` Exit
-
-Suggested repository name
-- `dfa-strings`
-
-License
-- Add a license of your choice (e.g., MIT) if you plan to publish this repository.
